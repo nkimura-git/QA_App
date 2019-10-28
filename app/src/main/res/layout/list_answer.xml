@@ -10,7 +10,7 @@
         android:text="Body"
         android:id="@+id/bodyTextView"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -19,6 +19,5 @@
         android:text="Name"
         android:id="@+id/nameTextView"
         android:layout_below="@+id/bodyTextView"
-        android:layout_alignParentEnd="true" />
-
+        android:layout_alignParentEnd="true"/>
 </RelativeLayout>
